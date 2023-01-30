@@ -1,6 +1,14 @@
-title: Aruna Devi
+title: <p align="center"> Aruna Devi </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
+description: <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https:www.linkedin.com/in/aruna-devi-13977325/">LinkedIn</a> |
+  <a href="https://github.com/arunabagya">GitHub</a>
+  <br>   
+  I'm doing course on Data Science and AI
+  <br>
+  </p>
+
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
